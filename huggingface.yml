@@ -1,0 +1,3 @@
+sdk: "static"
+python_version: "3.10"
+entrypoint: "python app.py"
